@@ -4,3 +4,4 @@
 ## salvando 
 
 * uso do comando restore
+* uso do comando git push
