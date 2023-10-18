@@ -2,3 +2,5 @@
 
 # salavndo a modificação no git/versionamento
 ## salvando 
+
+* uso do comando restore
